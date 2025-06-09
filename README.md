@@ -5,12 +5,12 @@
 🎓 Engineer turned Data Enthusiast | 🚀 Exploring AI & Automation  
 🔧 Experienced in AutoCAD, Revit, SAP2000, Excel 
  💡 Passionate about solving real-world problems with tech
+ 
 ---
 
 ### 🛠️ My Background
 
 I'm a seasoned **Civil Engineer** with 8years of experience designing and analysing road structures and buildings. Along the way, I faced recurring challenges with data fragmentation and inefficient design workflows—which led me to dive deep into **Data Analysis**,  **Python** & **Power BI**
-
 Today, I’m blending my engineering background with **data-driven automation** to streamline design tasks, minimise repetitive work, and extract insights from complex engineering data.
 
 ---
@@ -23,7 +23,7 @@ Today, I’m blending my engineering background with **data-driven automation** 
 ---
 
 ### 💬 Lets connect
-I’m always open to collaboration—especially with folks from different domains like **Law, HR, Business, and Engineering** who are looking to co-create useful, tech-powered tools.
+I’m always open to collaboration—especially with peers from different domains like **Law, HR, Business, and Engineering** who are looking to co-create useful, tech-powered tools.
 
 ---
 
@@ -36,4 +36,3 @@ I’m always open to collaboration—especially with folks from different domain
 
 ---
 
-> “Simplify. Automate. Innovate.” 
